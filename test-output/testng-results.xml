@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16224" started-at="2021-09-05T15:46:53 ICT" finished-at="2021-09-05T15:47:09 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16224" started-at="2021-09-05T15:46:53 ICT" finished-at="2021-09-05T15:47:09 ICT">
+      <class name="qaautomation.august2021.SwitchTest">
+        <test-method status="PASS" signature="createChromeDriver()[pri:0, instance:qaautomation.august2021.SwitchTest@491cc5c9]" name="createChromeDriver" is-config="true" duration-ms="8593" started-at="2021-09-05T15:46:53 ICT" finished-at="2021-09-05T15:47:01 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createChromeDriver -->
+        <test-method status="PASS" signature="testSwitchingTab()[pri:0, instance:qaautomation.august2021.SwitchTest@491cc5c9]" name="testSwitchingTab" duration-ms="6892" started-at="2021-09-05T15:47:01 ICT" finished-at="2021-09-05T15:47:08 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSwitchingTab -->
+        <test-method status="PASS" signature="quitChromeDriver()[pri:0, instance:qaautomation.august2021.SwitchTest@491cc5c9]" name="quitChromeDriver" is-config="true" duration-ms="699" started-at="2021-09-05T15:47:08 ICT" finished-at="2021-09-05T15:47:09 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitChromeDriver -->
+      </class> <!-- qaautomation.august2021.SwitchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
